@@ -14,3 +14,11 @@
 
 6. Send a pull-request to repo [Kottans/mock-repo](https://github.com/Kottans/mock-repo) proposing a change. It could be anything, really. If you have found a typo in README - great! Take care to give your PR a meaningful name and description.
 **Please note, that your PR may not be reviewed quickly.**
+
+# Конспект. Task 0
+
+#### 0.1
+1. Сравниваем два файла между собой
+```
+diff -u favorite-app-old.html favorite-app.html
+```
